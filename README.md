@@ -1,2 +1,5 @@
-# genlayer-community
-A collection of my GenLayer community work, including educational threads, user onboarding support, developer engagement, and awareness content aimed at ecosystem growth.
+# GenLayer Community Work
+
+This repository documents my contributions to the GenLayer ecosystem, including community engagement, educational content, and onboarding support.
+
+See `contributions.md` for full details.
